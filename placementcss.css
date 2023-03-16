@@ -1,0 +1,48 @@
+.navc {
+    overflow: hidden;
+    background-color: rgba(245, 88, 88, 0.897);
+}
+
+.navc p {
+
+
+    display: inline-block;
+    color: #f2f2f2;
+    padding: 2px;
+    margin: 10px;
+
+
+
+}
+
+#img2 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+.margin
+{
+   height:2px;
+   background-color: black;
+}
+td
+{
+
+    padding: 50px;
+}
+footer p
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.head
+{
+    font-size: 20px;
+    color: rgb(222, 41, 41);
+}
+body
+{
+    margin: 30px;
+}
